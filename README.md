@@ -3,7 +3,7 @@
 Este programa fue desarrollado por Paulo De Oliveira y Giselle Ramos como parte de sus tesis de grado para obtener el titulo  de ingeniero electricista
 en la Universidad Simón Bolivar, Caracas Venezuela en 1994
 
-El porgrama permite realizar el diseño asistido de barras colectoras en subestaciones de extra y ultra alta tensión  (EAT-UAT)
+El programa permite realizar el diseño asistido (eléctrico y mecánico) de barras colectoras (rígidas y flexibles) en subestaciones de extra y ultra alta tensión  (EAT-UAT)
 Se desarrolló  mediante la herramienta Level 5 Object Release 2.5.2 de Information Builders sobre windows Q.1
 El programa sigue funcionando en Windows 7.
  
