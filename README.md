@@ -1,4 +1,4 @@
-# sedbat Sistema Integral para el Diseño Asistido de Barras Colectoras en Subestaciones EAT
+# Sedbat - Sistema Integral para el Diseño Asistido de Barras Colectoras en Subestaciones de Extra y Ultra Alta Tensión EAT-UAT
 
 Este programa fue desarrollado por Paulo De Oliveira y Giselle Ramos como parte de sus tesis de grado para obtener el titulo  de ingeniero electricista
 en la Universidad Simón Bolivar, Caracas Venezuela en 1994
