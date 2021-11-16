@@ -15,4 +15,4 @@ DeOliveira-Ramos - Sistema Integral para el Diseño Asistido de Barras Colectora
 
 La herramienta fue presentada en el siguiente congreso:
 
-Rivas R, De Oliveira- DE jesus, P.M. Ramos-Pina, G. Tecnología de Sistemas Expertos  aplicados all Diseño de Barras en Subestaciones EAT-UAT, 9as Jornadas Científico Técnicas de Ingeniería. May 21-26, 1995, Maracaibo, Venezuela
+Rivas, R.;, De Oliveira-De Jesus, P.M.; Ramos-Pina, G.; Tecnología de Sistemas Expertos  aplicados all Diseño de Barras en Subestaciones EAT-UAT, 9as Jornadas Científico Técnicas de Ingeniería. May 21-26, 1995, Maracaibo, Venezuela
